@@ -21,13 +21,13 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 1,Masselmani  Mrs. Fatima,3,female,,0,0,7.225,woman,Cherbourg,yes
 0,Fynney  Mr. Joseph J,2,male,35.0,0,0,26.0,man,Southampton,yes
 1,Beesley  Mr. Lawrence,2,male,34.0,0,0,13.0,man,Southampton,yes
-"1,""McGowan  Miss. Anna """"Annie"""""",3,female,15.0,0,0,8.0292,child,Queenstown,yes"
+"1,McGowan  Miss. Anna ""Annie"",3,female,15.0,0,0,8.0292,child,Queenstown,yes"
 1,Sloper  Mr. William Thompson,1,male,28.0,0,0,35.5,man,Southampton,yes
 0,Palsson  Miss. Torborg Danira,3,female,8.0,3,1,21.075,child,Southampton,no
 1,Asplund  Mrs. Carl Oscar (Selma Augusta Emilia Johansson),3,female,38.0,1,5,31.3875,woman,Southampton,no
 0,Emir  Mr. Farred Chehab,3,male,,0,0,7.225,man,Cherbourg,yes
 0,Fortune  Mr. Charles Alexander,1,male,19.0,3,2,263.0,man,Southampton,no
-"1,""O'Dwyer  Miss. Ellen """"Nellie"""""",3,female,,0,0,7.8792,woman,Queenstown,yes"
+"1,O'Dwyer  Miss. Ellen ""Nellie"",3,female,,0,0,7.8792,woman,Queenstown,yes"
 0,Todoroff  Mr. Lalio,3,male,,0,0,7.8958,man,Southampton,yes
 0,Uruchurtu  Don. Manuel E,1,male,40.0,0,0,27.7208,man,Cherbourg,yes
 1,Spencer  Mrs. William Augustus (Marie Eugenie),1,female,,1,0,146.5208,woman,Cherbourg,no
@@ -100,7 +100,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 1,Doling  Mrs. John T (Ada Julia Bone),2,female,34.0,0,1,23.0,woman,Southampton,no
 0,Kantor  Mr. Sinai,2,male,34.0,1,0,26.0,man,Southampton,no
 0,Petranec  Miss. Matilda,3,female,28.0,0,0,7.8958,woman,Southampton,yes
-"0,""Petroff  Mr. Pastcho (""""Pentcho"""")"",3,male,,0,0,7.8958,man,Southampton,yes"
+"0,Petroff  Mr. Pastcho ""Pentcho"",3,male,,0,0,7.8958,man,Southampton,yes"
 0,White  Mr. Richard Frasar,1,male,21.0,0,1,77.2875,man,Southampton,no
 0,Johansson  Mr. Gustaf Joel,3,male,33.0,0,0,8.6542,man,Southampton,yes
 0,Gustafsson  Mr. Anders Vilhelm,3,male,37.0,2,0,7.925,man,Southampton,no
@@ -155,7 +155,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,van Billiard  Mr. Austin Blyler,3,male,40.5,0,2,14.5,man,Southampton,no
 0,Olsen  Mr. Ole Martin,3,male,,0,0,7.3125,man,Southampton,yes
 0,Williams  Mr. Charles Duane,1,male,51.0,0,1,61.3792,man,Cherbourg,no
-"1,""Gilnagh  Miss. Katherine """"Katie"""""",3,female,16.0,0,0,7.7333,woman,Queenstown,yes"
+"1,Gilnagh  Miss. Katherine ""Katie"",3,female,16.0,0,0,7.7333,woman,Queenstown,yes"
 0,Corn  Mr. Harry,3,male,30.0,0,0,8.05,man,Southampton,yes
 0,Smiljanic  Mr. Mile,3,male,,0,0,8.6625,man,Southampton,yes
 0,Sage  Master. Thomas Henry,3,male,,8,2,69.55,man,Southampton,no
