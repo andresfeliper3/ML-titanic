@@ -27,7 +27,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 1,Asplund  Mrs. Carl Oscar (Selma Augusta Emilia Johansson),3,female,38.0,1,5,31.3875,woman,Southampton,no
 0,Emir  Mr. Farred Chehab,3,male,,0,0,7.225,man,Cherbourg,yes
 0,Fortune  Mr. Charles Alexander,1,male,19.0,3,2,263.0,man,Southampton,no
-"1,O'Dwyer  Miss. Ellen ""Nellie"",3,female,,0,0,7.8792,woman,Queenstown,yes"
+1,O'Dwyer  Miss. Ellen  Nellie ,3,female,,0,0,7.8792,woman,Queenstown,yes
 0,Todoroff  Mr. Lalio,3,male,,0,0,7.8958,man,Southampton,yes
 0,Uruchurtu  Don. Manuel E,1,male,40.0,0,0,27.7208,man,Cherbourg,yes
 1,Spencer  Mrs. William Augustus (Marie Eugenie),1,female,,1,0,146.5208,woman,Cherbourg,no
@@ -100,7 +100,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 1,Doling  Mrs. John T (Ada Julia Bone),2,female,34.0,0,1,23.0,woman,Southampton,no
 0,Kantor  Mr. Sinai,2,male,34.0,1,0,26.0,man,Southampton,no
 0,Petranec  Miss. Matilda,3,female,28.0,0,0,7.8958,woman,Southampton,yes
-"0,Petroff  Mr. Pastcho ""Pentcho"",3,male,,0,0,7.8958,man,Southampton,yes"
+0,Petroff  Mr. Pastcho  Pentcho ,3,male,,0,0,7.8958,man,Southampton,yes
 0,White  Mr. Richard Frasar,1,male,21.0,0,1,77.2875,man,Southampton,no
 0,Johansson  Mr. Gustaf Joel,3,male,33.0,0,0,8.6542,man,Southampton,yes
 0,Gustafsson  Mr. Anders Vilhelm,3,male,37.0,2,0,7.925,man,Southampton,no
@@ -145,9 +145,9 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Burke  Mr. Jeremiah,3,male,19.0,0,0,6.75,man,Queenstown,yes
 0,Andrew  Mr. Edgardo Samuel,2,male,18.0,0,0,11.5,man,Southampton,yes
 0,Nicholls  Mr. Joseph Charles,2,male,19.0,1,1,36.75,man,Southampton,no
-"1,""Andersson  Mr. August Edvard (""""Wennerstrom"""")"",3,male,27.0,0,0,7.7958,man,Southampton,yes"
-"0,""Ford  Miss. Robina Maggie """"Ruby"""""",3,female,9.0,2,2,34.375,child,Southampton,no"
-"0,""Navratil  Mr. Michel (""""Louis M Hoffman"""")"",2,male,36.5,0,2,26.0,man,Southampton,no"
+1, Andersson  Mr. August Edvard (  Wennerstrom  ) ,3,male,27.0,0,0,7.7958,man,Southampton,yes
+0, Ford  Miss. Robina Maggie   Ruby   ,3,female,9.0,2,2,34.375,child,Southampton,no
+0, Navratil  Mr. Michel (  Louis M Hoffman  ) ,2,male,36.5,0,2,26.0,man,Southampton,no
 0,Byles  Rev. Thomas Roussel Davids,2,male,42.0,0,0,13.0,man,Southampton,yes
 0,Bateman  Rev. Robert James,2,male,51.0,0,0,12.525,man,Southampton,yes
 1,Pears  Mrs. Thomas (Edith Wearne),1,female,22.0,1,0,66.6,woman,Southampton,no
@@ -155,16 +155,16 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,van Billiard  Mr. Austin Blyler,3,male,40.5,0,2,14.5,man,Southampton,no
 0,Olsen  Mr. Ole Martin,3,male,,0,0,7.3125,man,Southampton,yes
 0,Williams  Mr. Charles Duane,1,male,51.0,0,1,61.3792,man,Cherbourg,no
-"1,Gilnagh  Miss. Katherine ""Katie"",3,female,16.0,0,0,7.7333,woman,Queenstown,yes"
+1,Gilnagh  Miss. Katherine  Katie ,3,female,16.0,0,0,7.7333,woman,Queenstown,yes
 0,Corn  Mr. Harry,3,male,30.0,0,0,8.05,man,Southampton,yes
 0,Smiljanic  Mr. Mile,3,male,,0,0,8.6625,man,Southampton,yes
 0,Sage  Master. Thomas Henry,3,male,,8,2,69.55,man,Southampton,no
 0,Cribb  Mr. John Hatfield,3,male,44.0,0,1,16.1,man,Southampton,no
-"1,""Watt  Mrs. James (Elizabeth """"Bessie"""" Inglis Milne)"",2,female,40.0,0,0,15.75,woman,Southampton,yes"
+1, Watt  Mrs. James (Elizabeth   Bessie   Inglis Milne) ,2,female,40.0,0,0,15.75,woman,Southampton,yes
 0,Bengtsson  Mr. John Viktor,3,male,26.0,0,0,7.775,man,Southampton,yes
 0,Calic  Mr. Jovo,3,male,17.0,0,0,8.6625,man,Southampton,yes
 0,Panula  Master. Eino Viljami,3,male,1.0,4,1,39.6875,child,Southampton,no
-"1,""Goldsmith  Master. Frank John William """"Frankie"""""",3,male,9.0,0,2,20.525,child,Southampton,no"
+1, Goldsmith  Master. Frank John William   Frankie   ,3,male,9.0,0,2,20.525,child,Southampton,no
 1,Chibnall  Mrs. (Edith Martha Bowerman),1,female,,0,1,55.0,woman,Southampton,no
 0,Skoog  Mrs. William (Anna Bernhardina Karlsson),3,female,45.0,1,4,27.9,woman,Southampton,no
 0,Baumann  Mr. John D,1,male,,0,0,25.925,man,Southampton,yes
@@ -185,8 +185,8 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 1,Becker  Master. Richard F,2,male,1.0,2,1,39.0,child,Southampton,no
 1,Kink-Heilmann  Miss. Luise Gretchen,3,female,4.0,0,2,22.025,child,Southampton,no
 0,Rood  Mr. Hugh Roscoe,1,male,,0,0,50.0,man,Southampton,yes
-"1,""O'Brien  Mrs. Thomas (Johanna """"Hannah"""" Godfrey)"",3,female,,1,0,15.5,woman,Queenstown,no"
-"1,""Romaine  Mr. Charles Hallace (""""Mr C Rolmane"""")"",1,male,45.0,0,0,26.55,man,Southampton,yes"
+1, O'Brien  Mrs. Thomas (Johanna   Hannah   Godfrey) ,3,female,,1,0,15.5,woman,Queenstown,no
+1, Romaine  Mr. Charles Hallace (  Mr C Rolmane  ) ,1,male,45.0,0,0,26.55,man,Southampton,yes
 0,Bourke  Mr. John,3,male,40.0,1,1,15.5,man,Queenstown,no
 0,Turcin  Mr. Stjepan,3,male,36.0,0,0,7.8958,man,Southampton,yes
 1,Pinsky  Mrs. (Rosa),2,female,32.0,0,0,13.0,woman,Southampton,yes
@@ -197,17 +197,17 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 1,Lurette  Miss. Elise,1,female,58.0,0,0,146.5208,woman,Cherbourg,yes
 0,Mernagh  Mr. Robert,3,male,,0,0,7.75,man,Queenstown,yes
 0,Olsen  Mr. Karl Siegwart Andreas,3,male,42.0,0,1,8.4042,man,Southampton,no
-"1,""Madigan  Miss. Margaret """"Maggie"""""",3,female,,0,0,7.75,woman,Queenstown,yes"
-"0,""Yrois  Miss. Henriette (""""Mrs Harbeck"""")"",2,female,24.0,0,0,13.0,woman,Southampton,yes"
+1, Madigan  Miss. Margaret   Maggie   ,3,female,,0,0,7.75,woman,Queenstown,yes
+0, Yrois  Miss. Henriette (  Mrs Harbeck  ) ,2,female,24.0,0,0,13.0,woman,Southampton,yes
 0,Vande Walle  Mr. Nestor Cyriel,3,male,28.0,0,0,9.5,man,Southampton,yes
 0,Sage  Mr. Frederick,3,male,,8,2,69.55,man,Southampton,no
 0,Johanson  Mr. Jakob Alfred,3,male,34.0,0,0,6.4958,man,Southampton,yes
 0,Youseff  Mr. Gerious,3,male,45.5,0,0,7.225,man,Cherbourg,yes
-"1,""Cohen  Mr. Gurshon """"Gus"""""",3,male,18.0,0,0,8.05,man,Southampton,yes"
+1, Cohen  Mr. Gurshon   Gus   ,3,male,18.0,0,0,8.05,man,Southampton,yes
 0,Strom  Miss. Telma Matilda,3,female,2.0,0,1,10.4625,child,Southampton,no
 0,Backstrom  Mr. Karl Alfred,3,male,32.0,1,0,15.85,man,Southampton,no
 1,Albimona  Mr. Nassef Cassem,3,male,26.0,0,0,18.7875,man,Cherbourg,yes
-"1,""Carr  Miss. Helen """"Ellen"""""",3,female,16.0,0,0,7.75,woman,Queenstown,yes"
+1, Carr  Miss. Helen   Ellen   ,3,female,16.0,0,0,7.75,woman,Queenstown,yes
 1,Blank  Mr. Henry,1,male,40.0,0,0,31.0,man,Cherbourg,yes
 0,Ali  Mr. Ahmed,3,male,24.0,0,0,7.05,man,Southampton,yes
 1,Cameron  Miss. Clear Annie,2,female,35.0,0,0,21.0,woman,Southampton,yes
@@ -226,7 +226,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 1,Hoyt  Mr. Frederick Maxfield,1,male,38.0,1,0,90.0,man,Southampton,no
 0,Berglund  Mr. Karl Ivar Sven,3,male,22.0,0,0,9.35,man,Southampton,yes
 1,Mellors  Mr. William John,2,male,19.0,0,0,10.5,man,Southampton,yes
-"0,""Lovell  Mr. John Hall (""""Henry"""")"",3,male,20.5,0,0,7.25,man,Southampton,yes"
+0, Lovell  Mr. John Hall (  Henry  ) ,3,male,20.5,0,0,7.25,man,Southampton,yes
 0,Fahlstrom  Mr. Arne Jonas,2,male,18.0,0,0,13.0,man,Southampton,yes
 0,Lefebre  Miss. Mathilde,3,female,,3,1,25.4667,woman,Southampton,no
 1,Harris  Mrs. Henry Birkhardt (Irene Wallach),1,female,35.0,1,0,83.475,woman,Southampton,no
@@ -236,11 +236,11 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Leyson  Mr. Robert William Norman,2,male,24.0,0,0,10.5,man,Southampton,yes
 0,Harknett  Miss. Alice Phoebe,3,female,,0,0,7.55,woman,Southampton,yes
 0,Hold  Mr. Stephen,2,male,44.0,1,0,26.0,man,Southampton,no
-"1,""Collyer  Miss. Marjorie """"Lottie"""""",2,female,8.0,0,2,26.25,child,Southampton,no"
+1, Collyer  Miss. Marjorie   Lottie   ,2,female,8.0,0,2,26.25,child,Southampton,no
 0,Pengelly  Mr. Frederick William,2,male,19.0,0,0,10.5,man,Southampton,yes
 0,Hunt  Mr. George Henry,2,male,33.0,0,0,12.275,man,Southampton,yes
 0,Zabour  Miss. Thamine,3,female,,1,0,14.4542,woman,Cherbourg,no
-"1,""Murphy  Miss. Katherine """"Kate"""""",3,female,,1,0,15.5,woman,Queenstown,no"
+1, Murphy  Miss. Katherine   Kate   ,3,female,,1,0,15.5,woman,Queenstown,no
 0,Coleridge  Mr. Reginald Charles,2,male,29.0,0,0,10.5,man,Southampton,yes
 0,Maenpaa  Mr. Matti Alexanteri,3,male,22.0,0,0,7.125,man,Southampton,yes
 0,Attalah  Mr. Sleiman,3,male,30.0,0,0,7.225,man,Cherbourg,yes
@@ -273,10 +273,10 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 1,Tornquist  Mr. William Henry,3,male,25.0,0,0,0.0,man,Southampton,yes
 1,Mellinger  Mrs. (Elizabeth Anne Maidment),2,female,41.0,0,1,19.5,woman,Southampton,no
 0,Natsch  Mr. Charles H,1,male,37.0,0,1,29.7,man,Cherbourg,no
-"1,""Healy  Miss. Hanora """"Nora"""""",3,female,,0,0,7.75,woman,Queenstown,yes"
+1, Healy  Miss. Hanora   Nora   ,3,female,,0,0,7.75,woman,Queenstown,yes
 1,Andrews  Miss. Kornelia Theodosia,1,female,63.0,1,0,77.9583,woman,Southampton,no
 0,Lindblom  Miss. Augusta Charlotta,3,female,45.0,0,0,7.75,woman,Southampton,yes
-"0,""Parkes  Mr. Francis """"Frank"""""",2,male,,0,0,0.0,man,Southampton,yes"
+0, Parkes  Mr. Francis   Frank   ,2,male,,0,0,0.0,man,Southampton,yes
 0,Rice  Master. Eric,3,male,7.0,4,1,29.125,child,Queenstown,no
 1,Abbott  Mrs. Stanton (Rosa Hunt),3,female,35.0,1,1,20.25,woman,Southampton,no
 0,Duane  Mr. Frank,3,male,65.0,0,0,7.75,man,Queenstown,yes
@@ -289,7 +289,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Naidenoff  Mr. Penko,3,male,22.0,0,0,7.8958,man,Southampton,yes
 1,Hosono  Mr. Masabumi,2,male,42.0,0,0,13.0,man,Southampton,yes
 1,Connolly  Miss. Kate,3,female,22.0,0,0,7.75,woman,Queenstown,yes
-"1,""Barber  Miss. Ellen """"Nellie"""""",1,female,26.0,0,0,78.85,woman,Southampton,yes"
+1, Barber  Miss. Ellen   Nellie   ,1,female,26.0,0,0,78.85,woman,Southampton,yes
 1,Bishop  Mrs. Dickinson H (Helen Walton),1,female,19.0,1,0,91.0792,woman,Cherbourg,no
 0,Levy  Mr. Rene Jacques,2,male,36.0,0,0,12.875,man,Cherbourg,yes
 0,Haas  Miss. Aloisia,3,female,24.0,0,0,8.85,woman,Southampton,yes
@@ -299,11 +299,11 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Allison  Miss. Helen Loraine,1,female,2.0,1,2,151.55,child,Southampton,no
 1,Saalfeld  Mr. Adolphe,1,male,,0,0,30.5,man,Southampton,yes
 1,Baxter  Mrs. James (Helene DeLaudeniere Chaput),1,female,50.0,0,1,247.5208,woman,Cherbourg,no
-"1,""Kelly  Miss. Anna Katherine """"Annie Kate"""""",3,female,,0,0,7.75,woman,Queenstown,yes"
+1, Kelly  Miss. Anna Katherine   Annie Kate   ,3,female,,0,0,7.75,woman,Queenstown,yes
 1,McCoy  Mr. Bernard,3,male,,2,0,23.25,man,Queenstown,no
 0,Johnson  Mr. William Cahoone Jr,3,male,19.0,0,0,0.0,man,Southampton,yes
 1,Keane  Miss. Nora A,2,female,,0,0,12.35,woman,Queenstown,yes
-"0,""Williams  Mr. Howard Hugh """"Harry"""""",3,male,,0,0,8.05,man,Southampton,yes"
+0, Williams  Mr. Howard Hugh   Harry   ,3,male,,0,0,8.05,man,Southampton,yes
 1,Allison  Master. Hudson Trevor,1,male,0.92,1,2,151.55,child,Southampton,no
 1,Fleming  Miss. Margaret,1,female,,0,0,110.8833,woman,Cherbourg,yes
 1,Penasco y Castellana  Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo),1,female,17.0,1,0,108.9,woman,Cherbourg,no
@@ -344,10 +344,10 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Collander  Mr. Erik Gustaf,2,male,28.0,0,0,13.0,man,Southampton,yes
 0,Sedgwick  Mr. Charles Frederick Waddington,2,male,25.0,0,0,13.0,man,Southampton,yes
 0,Fox  Mr. Stanley Hubert,2,male,36.0,0,0,13.0,man,Southampton,yes
-"1,""Brown  Miss. Amelia """"Mildred"""""",2,female,24.0,0,0,13.0,woman,Southampton,yes"
+1, Brown  Miss. Amelia   Mildred   ,2,female,24.0,0,0,13.0,woman,Southampton,yes
 1,Smith  Miss. Marion Elsie,2,female,40.0,0,0,13.0,woman,Southampton,yes
 1,Davison  Mrs. Thomas Henry (Mary E Finck),3,female,,1,0,16.1,woman,Southampton,no
-"1,""Coutts  Master. William Loch """"William"""""",3,male,3.0,1,1,15.9,child,Southampton,no"
+1, Coutts  Master. William Loch   William   ,3,male,3.0,1,1,15.9,child,Southampton,no
 0,Dimic  Mr. Jovan,3,male,42.0,0,0,8.6625,man,Southampton,yes
 0,Odahl  Mr. Nils Martin,3,male,23.0,0,0,9.225,man,Southampton,yes
 0,Williams-Lambert  Mr. Fletcher Fellows,1,male,,0,0,35.0,man,Southampton,yes
@@ -358,7 +358,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 1,Bowerman  Miss. Elsie Edith,1,female,22.0,0,1,55.0,woman,Southampton,no
 0,Funk  Miss. Annie Clemmer,2,female,38.0,0,0,13.0,woman,Southampton,yes
 1,McGovern  Miss. Mary,3,female,,0,0,7.8792,woman,Queenstown,yes
-"1,""Mockler  Miss. Helen Mary """"Ellie"""""",3,female,,0,0,7.8792,woman,Queenstown,yes"
+1, Mockler  Miss. Helen Mary   Ellie   ,3,female,,0,0,7.8792,woman,Queenstown,yes
 0,Skoog  Mr. Wilhelm,3,male,40.0,1,4,27.9,man,Southampton,no
 0,del Carlo  Mr. Sebastiano,2,male,29.0,1,0,27.7208,man,Cherbourg,no
 0,Barbara  Mrs. (Catherine David),3,female,45.0,0,1,14.4542,woman,Cherbourg,no
@@ -380,7 +380,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Betros  Mr. Tannous,3,male,20.0,0,0,4.0125,man,Cherbourg,yes
 0,Gustafsson  Mr. Karl Gideon,3,male,19.0,0,0,7.775,man,Southampton,yes
 1,Bidois  Miss. Rosalie,1,female,42.0,0,0,227.525,woman,Cherbourg,yes
-"1,""Nakid  Miss. Maria (""""Mary"""")"",3,female,1.0,0,2,15.7417,child,Cherbourg,no"
+1, Nakid  Miss. Maria (  Mary  ) ,3,female,1.0,0,2,15.7417,child,Cherbourg,no
 0,Tikkanen  Mr. Juho,3,male,32.0,0,0,7.925,man,Southampton,yes
 1,Holverson  Mrs. Alexander Oskar (Mary Aline Towner),1,female,35.0,1,0,52.0,woman,Southampton,no
 0,Plotcharsky  Mr. Vasil,3,male,,0,0,7.8958,man,Southampton,yes
@@ -426,7 +426,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Rosblom  Mr. Viktor Richard,3,male,18.0,1,1,20.2125,man,Southampton,no
 0,Wiseman  Mr. Phillippe,3,male,,0,0,7.25,man,Southampton,yes
 1,Clarke  Mrs. Charles V (Ada Maria Winfield),2,female,28.0,1,0,26.0,woman,Southampton,no
-"1,""Phillips  Miss. Kate Florence (""""Mrs Kate Louise Phillips Marshall"""")"",2,female,19.0,0,0,26.0,woman,Southampton,yes"
+1, Phillips  Miss. Kate Florence (  Mrs Kate Louise Phillips Marshall  ) ,2,female,19.0,0,0,26.0,woman,Southampton,yes
 0,Flynn  Mr. James,3,male,,0,0,7.75,man,Queenstown,yes
 1,Pickard  Mr. Berk (Berk Trembisky),3,male,32.0,0,0,8.05,man,Southampton,yes
 1,Bjornstrom-Steffansson  Mr. Mauritz Hakan,1,male,28.0,0,0,26.55,man,Southampton,yes
@@ -435,7 +435,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Kallio  Mr. Nikolai Erland,3,male,17.0,0,0,7.125,man,Southampton,yes
 0,Silvey  Mr. William Baird,1,male,50.0,1,0,55.9,man,Southampton,no
 1,Carter  Miss. Lucile Polk,1,female,14.0,1,2,120.0,child,Southampton,no
-"0,""Ford  Miss. Doolina Margaret """"Daisy"""""",3,female,21.0,2,2,34.375,woman,Southampton,no"
+0, Ford  Miss. Doolina Margaret   Daisy   ,3,female,21.0,2,2,34.375,woman,Southampton,no
 1,Richards  Mrs. Sidney (Emily Hocking),2,female,24.0,2,3,18.75,woman,Southampton,no
 0,Fortune  Mr. Mark,1,male,64.0,1,4,263.0,man,Southampton,no
 0,Kvillner  Mr. Johan Henrik Johannesson,2,male,31.0,0,0,10.5,man,Southampton,yes
@@ -480,7 +480,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Karlsson  Mr. Nils August,3,male,22.0,0,0,7.5208,man,Southampton,yes
 1,Hirvonen  Miss. Hildur E,3,female,2.0,0,1,12.2875,child,Southampton,no
 0,Goodwin  Master. Harold Victor,3,male,9.0,5,2,46.9,child,Southampton,no
-"0,""Frost  Mr. Anthony Wood """"Archie"""""",2,male,,0,0,0.0,man,Southampton,yes"
+0, Frost  Mr. Anthony Wood   Archie   ,2,male,,0,0,0.0,man,Southampton,yes
 0,Rouse  Mr. Richard Henry,3,male,50.0,0,0,8.05,man,Southampton,yes
 1,Turkula  Mrs. (Hedwig),3,female,63.0,0,0,9.5875,woman,Southampton,yes
 1,Bishop  Mr. Dickinson H,1,male,25.0,1,0,91.0792,man,Cherbourg,no
@@ -488,7 +488,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 1,Hoyt  Mrs. Frederick Maxfield (Jane Anne Forby),1,female,35.0,1,0,90.0,woman,Southampton,no
 0,Kent  Mr. Edward Austin,1,male,58.0,0,0,29.7,man,Cherbourg,yes
 0,Somerton  Mr. Francis William,3,male,30.0,0,0,8.05,man,Southampton,yes
-"1,""Coutts  Master. Eden Leslie """"Neville"""""",3,male,9.0,1,1,15.9,child,Southampton,no"
+1, Coutts  Master. Eden Leslie   Neville   ,3,male,9.0,1,1,15.9,child,Southampton,no
 0,Hagland  Mr. Konrad Mathias Reiersen,3,male,,1,0,19.9667,man,Southampton,no
 0,Windelov  Mr. Einar,3,male,21.0,0,0,7.25,man,Southampton,yes
 0,Molson  Mr. Harry Markland,1,male,55.0,0,0,30.5,man,Southampton,yes
@@ -506,7 +506,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 1,Maioni  Miss. Roberta,1,female,16.0,0,0,86.5,woman,Southampton,yes
 0,Penasco y Castellana  Mr. Victor de Satode,1,male,18.0,1,0,108.9,man,Cherbourg,no
 1,Quick  Mrs. Frederick Charles (Jane Richards),2,female,33.0,0,2,26.0,woman,Southampton,no
-"1,""Bradley  Mr. George (""""George Arthur Brayton"""")"",1,male,,0,0,26.55,man,Southampton,yes"
+1, Bradley  Mr. George (  George Arthur Brayton  ) ,1,male,,0,0,26.55,man,Southampton,yes
 0,Olsen  Mr. Henry Margido,3,male,28.0,0,0,22.525,man,Southampton,yes
 1,Lang  Mr. Fang,3,male,26.0,0,0,56.4958,man,Southampton,yes
 1,Daly  Mr. Eugene Patrick,3,male,29.0,0,0,7.75,man,Queenstown,yes
@@ -517,7 +517,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Walker  Mr. William Anderson,1,male,47.0,0,0,34.0208,man,Southampton,yes
 1,Lemore  Mrs. (Amelia Milley),2,female,34.0,0,0,10.5,woman,Southampton,yes
 0,Ryan  Mr. Patrick,3,male,,0,0,24.15,man,Queenstown,yes
-"1,""Angle  Mrs. William A (Florence """"Mary"""" Agnes Hughes)"",2,female,36.0,1,0,26.0,woman,Southampton,no"
+1, Angle  Mrs. William A (Florence   Mary   Agnes Hughes) ,2,female,36.0,1,0,26.0,woman,Southampton,no
 0,Pavlovic  Mr. Stefo,3,male,32.0,0,0,7.8958,man,Southampton,yes
 1,Perreault  Miss. Anne,1,female,30.0,0,0,93.5,woman,Southampton,yes
 0,Vovk  Mr. Janko,3,male,22.0,0,0,7.8958,man,Southampton,yes
@@ -552,10 +552,10 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 1,Thayer  Mr. John Borland Jr,1,male,17.0,0,2,110.8833,man,Cherbourg,no
 0,Sharp  Mr. Percival James R,2,male,27.0,0,0,26.0,man,Southampton,yes
 0,O'Brien  Mr. Timothy,3,male,,0,0,7.8292,man,Queenstown,yes
-"1,""Leeni  Mr. Fahim (""""Philip Zenni"""")"",3,male,22.0,0,0,7.225,man,Cherbourg,yes"
+1, Leeni  Mr. Fahim (  Philip Zenni  ) ,3,male,22.0,0,0,7.225,man,Cherbourg,yes
 1,Ohman  Miss. Velin,3,female,22.0,0,0,7.775,woman,Southampton,yes
 0,Wright  Mr. George,1,male,62.0,0,0,26.55,man,Southampton,yes
-"1,""Duff Gordon  Lady. (Lucille Christiana Sutherland) (""""Mrs Morgan"""")"",1,female,48.0,1,0,39.6,woman,Cherbourg,no"
+1, Duff Gordon  Lady. (Lucille Christiana Sutherland) (  Mrs Morgan  ) ,1,female,48.0,1,0,39.6,woman,Cherbourg,no
 0,Robbins  Mr. Victor,1,male,,0,0,227.525,man,Cherbourg,yes
 1,Taussig  Mrs. Emil (Tillie Mandelbaum),1,female,39.0,1,1,79.65,woman,Southampton,no
 1,de Messemaeker  Mrs. Guillaume Joseph (Emma),3,female,36.0,1,0,17.4,woman,Southampton,no
@@ -571,7 +571,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 1,Jonsson  Mr. Carl,3,male,32.0,0,0,7.8542,man,Southampton,yes
 1,Harris  Mr. George,2,male,62.0,0,0,10.5,man,Southampton,yes
 1,Appleton  Mrs. Edward Dale (Charlotte Lamson),1,female,53.0,2,0,51.4792,woman,Southampton,no
-"1,""Flynn  Mr. John Irwin (""""Irving"""")"",1,male,36.0,0,0,26.3875,man,Southampton,yes"
+1, Flynn  Mr. John Irwin (  Irving  ) ,1,male,36.0,0,0,26.3875,man,Southampton,yes
 1,Kelly  Miss. Mary,3,female,,0,0,7.75,woman,Queenstown,yes
 0,Rush  Mr. Alfred George John,3,male,16.0,0,0,8.05,man,Southampton,yes
 0,Patchett  Mr. George,3,male,19.0,0,0,14.5,man,Southampton,yes
@@ -598,12 +598,12 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 1,Leitch  Miss. Jessie Wills,2,female,,0,0,33.0,woman,Southampton,yes
 0,Johnson  Mr. Alfred,3,male,49.0,0,0,0.0,man,Southampton,yes
 0,Boulos  Mr. Hanna,3,male,,0,0,7.225,man,Cherbourg,yes
-"1,""Duff Gordon  Sir. Cosmo Edmund (""""Mr Morgan"""")"",1,male,49.0,1,0,56.9292,man,Cherbourg,no"
+1, Duff Gordon  Sir. Cosmo Edmund (  Mr Morgan  ) ,1,male,49.0,1,0,56.9292,man,Cherbourg,no
 1,Jacobsohn  Mrs. Sidney Samuel (Amy Frances Christy),2,female,24.0,2,1,27.0,woman,Southampton,no
 0,Slabenoff  Mr. Petco,3,male,,0,0,7.8958,man,Southampton,yes
 0,Harrington  Mr. Charles H,1,male,,0,0,42.4,man,Southampton,yes
 0,Torber  Mr. Ernst William,3,male,44.0,0,0,8.05,man,Southampton,yes
-"1,""Homer  Mr. Harry (""""Mr E Haven"""")"",1,male,35.0,0,0,26.55,man,Cherbourg,yes"
+1, Homer  Mr. Harry (  Mr E Haven  ) ,1,male,35.0,0,0,26.55,man,Cherbourg,yes
 0,Lindell  Mr. Edvard Bengtsson,3,male,36.0,1,0,15.55,man,Southampton,no
 0,Karaic  Mr. Milan,3,male,30.0,0,0,7.8958,man,Southampton,yes
 1,Daniel  Mr. Robert Williams,1,male,27.0,0,0,30.5,man,Southampton,yes
@@ -623,7 +623,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 1,Kimball  Mr. Edwin Nelson Jr,1,male,42.0,1,0,52.5542,man,Southampton,no
 1,Nakid  Mr. Sahid,3,male,20.0,1,1,15.7417,man,Cherbourg,no
 0,Hansen  Mr. Henry Damsgaard,3,male,21.0,0,0,7.8542,man,Southampton,yes
-"0,""Bowen  Mr. David John """"Dai"""""",3,male,21.0,0,0,16.1,man,Southampton,yes"
+0, Bowen  Mr. David John   Dai   ,3,male,21.0,0,0,16.1,man,Southampton,yes
 0,Sutton  Mr. Frederick,1,male,61.0,0,0,32.3208,man,Southampton,yes
 0,Kirkland  Rev. Charles Leonard,2,male,57.0,0,0,12.35,man,Queenstown,yes
 1,Longley  Miss. Gretchen Fiske,1,female,21.0,0,0,77.9583,woman,Southampton,yes
@@ -652,8 +652,8 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Mitkoff  Mr. Mito,3,male,,0,0,7.8958,man,Southampton,yes
 1,Doling  Miss. Elsie,2,female,18.0,0,1,23.0,woman,Southampton,no
 0,Kalvik  Mr. Johannes Halvorsen,3,male,21.0,0,0,8.4333,man,Southampton,yes
-"1,""O'Leary  Miss. Hanora """"Norah"""""",3,female,,0,0,7.8292,woman,Queenstown,yes"
-"0,""Hegarty  Miss. Hanora """"Nora"""""",3,female,18.0,0,0,6.75,woman,Queenstown,yes"
+1, O'Leary  Miss. Hanora   Norah   ,3,female,,0,0,7.8292,woman,Queenstown,yes
+0, Hegarty  Miss. Hanora   Nora   ,3,female,18.0,0,0,6.75,woman,Queenstown,yes
 0,Hickman  Mr. Leonard Mark,2,male,24.0,2,0,73.5,man,Southampton,no
 0,Radeff  Mr. Alexander,3,male,,0,0,7.8958,man,Southampton,yes
 0,Bourke  Mrs. John (Catherine),3,female,32.0,1,1,15.5,woman,Queenstown,no
@@ -696,7 +696,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Weir  Col. John,1,male,60.0,0,0,26.55,man,Southampton,yes
 0,Chapman  Mr. Charles Henry,2,male,52.0,0,0,13.5,man,Southampton,yes
 0,Kelly  Mr. James,3,male,44.0,0,0,8.05,man,Southampton,yes
-"1,""Mullens  Miss. Katherine """"Katie"""""",3,female,,0,0,7.7333,woman,Queenstown,yes"
+1, Mullens  Miss. Katherine   Katie   ,3,female,,0,0,7.7333,woman,Queenstown,yes
 0,Thayer  Mr. John Borland,1,male,49.0,1,1,110.8833,man,Cherbourg,no
 0,Humblen  Mr. Adolf Mathias Nicolai Olsen,3,male,42.0,0,0,7.65,man,Southampton,yes
 1,Astor  Mrs. John Jacob (Madeleine Talmadge Force),1,female,18.0,1,0,227.525,woman,Cherbourg,no
@@ -704,22 +704,22 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Barbara  Miss. Saiide,3,female,18.0,0,1,14.4542,woman,Cherbourg,no
 0,Gallagher  Mr. Martin,3,male,25.0,0,0,7.7417,man,Queenstown,yes
 0,Hansen  Mr. Henrik Juul,3,male,26.0,1,0,7.8542,man,Southampton,no
-"0,""Morley  Mr. Henry Samuel (""""Mr Henry Marshall"""")"",2,male,39.0,0,0,26.0,man,Southampton,yes"
-"1,""Kelly  Mrs. Florence """"Fannie"""""",2,female,45.0,0,0,13.5,woman,Southampton,yes"
+0, Morley  Mr. Henry Samuel (  Mr Henry Marshall  ) ,2,male,39.0,0,0,26.0,man,Southampton,yes
+1, Kelly  Mrs. Florence   Fannie   ,2,female,45.0,0,0,13.5,woman,Southampton,yes
 1,Calderhead  Mr. Edward Pennington,1,male,42.0,0,0,26.2875,man,Southampton,yes
 1,Cleaver  Miss. Alice,1,female,22.0,0,0,151.55,woman,Southampton,yes
-"1,""Moubarek  Master. Halim Gonios (""""William George"""")"",3,male,,1,1,15.2458,man,Cherbourg,no"
-"1,""Mayne  Mlle. Berthe Antonine (""""Mrs de Villiers"""")"",1,female,24.0,0,0,49.5042,woman,Cherbourg,yes"
+1, Moubarek  Master. Halim Gonios (  William George  ) ,3,male,,1,1,15.2458,man,Cherbourg,no
+1, Mayne  Mlle. Berthe Antonine (  Mrs de Villiers  ) ,1,female,24.0,0,0,49.5042,woman,Cherbourg,yes
 0,Klaber  Mr. Herman,1,male,,0,0,26.55,man,Southampton,yes
 1,Taylor  Mr. Elmer Zebley,1,male,48.0,1,0,52.0,man,Southampton,no
 0,Larsson  Mr. August Viktor,3,male,29.0,0,0,9.4833,man,Southampton,yes
 0,Greenberg  Mr. Samuel,2,male,52.0,0,0,13.0,man,Southampton,yes
 0,Soholt  Mr. Peter Andreas Lauritz Andersen,3,male,19.0,0,0,7.65,man,Southampton,yes
 1,Endres  Miss. Caroline Louise,1,female,38.0,0,0,227.525,woman,Cherbourg,yes
-"1,""Troutt  Miss. Edwina Celia """"Winnie"""""",2,female,27.0,0,0,10.5,woman,Southampton,yes"
+1, Troutt  Miss. Edwina Celia   Winnie   ,2,female,27.0,0,0,10.5,woman,Southampton,yes
 0,McEvoy  Mr. Michael,3,male,,0,0,15.5,man,Queenstown,yes
 0,Johnson  Mr. Malkolm Joackim,3,male,33.0,0,0,7.775,man,Southampton,yes
-"1,""Harper  Miss. Annie Jessie """"Nina"""""",2,female,6.0,0,1,33.0,child,Southampton,no"
+1, Harper  Miss. Annie Jessie   Nina   ,2,female,6.0,0,1,33.0,child,Southampton,no
 0,Jensen  Mr. Svend Lauritz,3,male,17.0,1,0,7.0542,man,Southampton,no
 0,Gillespie  Mr. William Henry,2,male,34.0,0,0,13.0,man,Southampton,yes
 0,Hodges  Mr. Henry Price,2,male,50.0,0,0,13.0,man,Southampton,yes
@@ -741,7 +741,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Nankoff  Mr. Minko,3,male,,0,0,7.8958,man,Southampton,yes
 1,Hawksford  Mr. Walter James,1,male,,0,0,30.0,man,Southampton,yes
 0,Cavendish  Mr. Tyrell William,1,male,36.0,1,0,78.85,man,Southampton,no
-"1,""Ryerson  Miss. Susan Parker """"Suzette"""""",1,female,21.0,2,2,262.375,woman,Cherbourg,no"
+1, Ryerson  Miss. Susan Parker   Suzette   ,1,female,21.0,2,2,262.375,woman,Cherbourg,no
 0,McNamee  Mr. Neal,3,male,24.0,1,0,16.1,man,Southampton,no
 1,Stranden  Mr. Juho,3,male,31.0,0,0,7.925,man,Southampton,yes
 0,Crosby  Capt. Edward Gifford,1,male,70.0,1,1,71.0,man,Southampton,no
@@ -789,7 +789,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Rice  Master. George Hugh,3,male,8.0,4,1,29.125,child,Queenstown,no
 1,Dean  Master. Bertram Vere,3,male,1.0,1,2,20.575,child,Southampton,no
 0,Guggenheim  Mr. Benjamin,1,male,46.0,0,0,79.2,man,Cherbourg,yes
-"0,""Keane  Mr. Andrew """"Andy"""""",3,male,,0,0,7.75,man,Queenstown,yes"
+0, Keane  Mr. Andrew   Andy   ,3,male,,0,0,7.75,man,Queenstown,yes
 0,Gaskell  Mr. Alfred,2,male,16.0,0,0,26.0,man,Southampton,yes
 0,Sage  Miss. Stella Anna,3,female,,8,2,69.55,woman,Southampton,no
 0,Hoyt  Mr. William Fisher,1,male,,0,0,30.6958,man,Cherbourg,yes
@@ -862,7 +862,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Hansen  Mr. Claus Peter,3,male,41.0,2,0,14.1083,man,Southampton,no
 0,Giles  Mr. Frederick Edward,2,male,21.0,1,0,11.5,man,Southampton,no
 1,Swift  Mrs. Frederick Joel (Margaret Welles Barron),1,female,48.0,0,0,25.9292,woman,Southampton,yes
-"0,""Sage  Miss. Dorothy Edith """"Dolly"""""",3,female,,8,2,69.55,woman,Southampton,no"
+0, Sage  Miss. Dorothy Edith   Dolly   ,3,female,,8,2,69.55,woman,Southampton,no
 0,Gill  Mr. John William,2,male,24.0,0,0,13.0,man,Southampton,yes
 1,Bystrom  Mrs. (Karolina),2,female,42.0,0,0,13.0,woman,Southampton,yes
 1,Duran y More  Miss. Asuncion,2,female,27.0,1,0,13.8583,woman,Cherbourg,no
@@ -874,7 +874,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Carlsson  Mr. Frans Olof,1,male,33.0,0,0,5.0,man,Southampton,yes
 0,Vander Cruyssen  Mr. Victor,3,male,47.0,0,0,9.0,man,Southampton,yes
 1,Abelson  Mrs. Samuel (Hannah Wizosky),2,female,28.0,1,0,24.0,woman,Cherbourg,no
-"1,""Najib  Miss. Adele Kiamie """"Jane"""""",3,female,15.0,0,0,7.225,child,Cherbourg,yes"
+1, Najib  Miss. Adele Kiamie   Jane   ,3,female,15.0,0,0,7.225,child,Cherbourg,yes
 0,Gustafsson  Mr. Alfred Ossian,3,male,20.0,0,0,9.8458,man,Southampton,yes
 0,Petroff  Mr. Nedelio,3,male,19.0,0,0,7.8958,man,Southampton,yes
 0,Laleff  Mr. Kristo,3,male,,0,0,7.8958,man,Southampton,yes
@@ -887,6 +887,6 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 0,Rice  Mrs. William (Margaret Norton),3,female,39.0,0,5,29.125,woman,Queenstown,no
 0,Montvila  Rev. Juozas,2,male,27.0,0,0,13.0,man,Southampton,yes
 1,Graham  Miss. Margaret Edith,1,female,19.0,0,0,30.0,woman,Southampton,yes
-"0,""Johnston  Miss. Catherine Helen """"Carrie"""""",3,female,,1,2,23.45,woman,Southampton,no"
+0, Johnston  Miss. Catherine Helen   Carrie   ,3,female,,1,2,23.45,woman,Southampton,no
 1,Behr  Mr. Karl Howell,1,male,26.0,0,0,30.0,man,Cherbourg,yes
 0,Dooley  Mr. Patrick,3,male,32.0,0,0,7.75,man,Queenstown,yes
