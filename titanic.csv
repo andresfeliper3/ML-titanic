@@ -21,7 +21,7 @@ survived,Name,pclass,sex,age,sibsp,parch,fare,who,embark_town,alone
 1,Masselmani  Mrs. Fatima,3,female,,0,0,7.225,woman,Cherbourg,yes
 0,Fynney  Mr. Joseph J,2,male,35.0,0,0,26.0,man,Southampton,yes
 1,Beesley  Mr. Lawrence,2,male,34.0,0,0,13.0,man,Southampton,yes
-"1,McGowan  Miss. Anna ""Annie"",3,female,15.0,0,0,8.0292,child,Queenstown,yes"
+1,McGowan  Miss. Anna,3,female,15.0,0,0,8.0292,child,Queenstown,yes
 1,Sloper  Mr. William Thompson,1,male,28.0,0,0,35.5,man,Southampton,yes
 0,Palsson  Miss. Torborg Danira,3,female,8.0,3,1,21.075,child,Southampton,no
 1,Asplund  Mrs. Carl Oscar (Selma Augusta Emilia Johansson),3,female,38.0,1,5,31.3875,woman,Southampton,no
